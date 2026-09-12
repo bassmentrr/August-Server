@@ -41,7 +41,7 @@ jobs:
           echo "Building $version"
 
       - name: Restore
-        run: dotnet restore
+        run: dotnet restore --runtime win-x64
 
       - name: Build
         run: dotnet build --configuration Release --no-restore --runtime win-x64
