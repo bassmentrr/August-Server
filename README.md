@@ -2,7 +2,7 @@
 
 August Server is a server implementation primarily tested against an **August 17th, 2016 build of Rec Room**.
 
-It will probably work with all versions **older than August 17th, 2016** as well, although compatibility with those versions has not been tested because I am a lazy bum.
+From what I investigated, this server should work from the first ever version of Rec Room (June 28th, 2016) to August 30th, 2016, as they added levels in that version!
 
 ## Building
 
