@@ -4,6 +4,8 @@ August Server is a server implementation primarily tested against an **August 17
 
 From what I investigated, this server should work from the first ever version of Rec Room (June 28th, 2016) to August 30th, 2016, as they added levels in that version!
 
+Make sure in the server folder you have a /content folder, and inside the /content folder there should be a motd.txt with what you want the MOTD to be!
+
 ## Building
 
 Make sure you have **.NET 9.0** installed.
